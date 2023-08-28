@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#hero{
+    height: 100vh;
+    background-image: url('./bruce-mars-gJtDg6WfMlQ-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.height1{
+    height: 100vh;
+}
+.red{
+    color: red;
+}
+.bg{
+    background-color: blueviolet;
+}
+#contact{
+    background-color: cornflowerblue;
+}
+#footer{
+    background-color: #131313;
+    color: aliceblue;
+}
